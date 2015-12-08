@@ -1,3 +1,2 @@
 # worldsoon
-practice files,first repository on GitHub
-Hello world11111
+AngularJS例子
